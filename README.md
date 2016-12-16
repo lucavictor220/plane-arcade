@@ -13,9 +13,9 @@ If you don't have those follow steps on the following links:
 ## Getting started:
 
 1. `git init`
-2. `git remote add origin https://github.com/lucavictor220/node-phaser.git`
-3. `git pull origin master`
-4. `npm install`
+2. `git clone https://github.com/lucavictor220/node-phaser.git`
+3. `cd node-phaser`
+3. `npm install`
 5. `npm start`
 
 After following this steps the app should be running on [localhost:3000](http://localhost:3000/)
