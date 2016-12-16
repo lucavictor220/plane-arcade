@@ -9,11 +9,12 @@ If you don't have those follow steps on the following links:
 - [Install node.js](http://blog.teamtreehouse.com/install-node-js-npm-windows)
 - [Install git](https://www.atlassian.com/git/tutorials/install-git/linux)
 
-Steps to get started:
+
+## Getting started:
 
 1. `git init`
 2. `git remote add origin https://github.com/lucavictor220/node-phaser.git`
-3. `git pull origin master -u`
+3. `git pull origin master`
 4. `npm install`
 5. `npm start`
 
